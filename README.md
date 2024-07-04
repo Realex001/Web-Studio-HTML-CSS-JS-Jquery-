@@ -1,12 +1,12 @@
 <h1>Название проекта: Сайт веб-студии </h1>
-<img src="https://github.com/Realex001/window-HTML-CSS-JS/assets/164393853/6fe22e4b-ce18-42ef-bcc2-03aaca59ffca" >
+<img src="https://github.com/Realex001/Web-Studio-HTML-CSS-JS-Jquery-/assets/164393853/c97f665a-b97b-42cb-b883-3345bfb11080" >
 
 <h1>О проекте:</h1>
 <p>Данный проект выполнен в учебных целях.</p>
 <ul>
   <li>Проект выполнен за: 10 дней</li>
   <li>Демо онлайн:  </li>
-  <li>Код на GitHub:  </li>
+  <li>Код на GitHub:  https://github.com/Realex001/Web-Studio-HTML-CSS-JS-Jquery-.git</li>
 </ul>
 
 <h1>Технологии:</h1>
