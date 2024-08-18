@@ -5,7 +5,7 @@
 <p>Данный проект выполнен в учебных целях.</p>
 <ul>
   <li>Проект выполнен за: 10 дней</li>
-  <li>Демо онлайн:  </li>
+  <li>Демо онлайн: https://web-studio-six.vercel.app/ </li>
   <li>Код на GitHub:  https://github.com/Realex001/Web-Studio-HTML-CSS-JS-Jquery-.git</li>
 </ul>
 
